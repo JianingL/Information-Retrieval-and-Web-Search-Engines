@@ -1,0 +1,36 @@
+Name: Jianing Liu
+News site crawled: http://www.latimes.com/
+
+Fetch Statistics
+================
+# fetches attempted: 10000
+# fetches succeeded: 9584
+# fetches aborted: 413
+# fetches failed: 3
+
+Outgoing URLs:
+==============
+Total URLs extracted: 423177
+# unique URLs extracted: 84573
+# unique URLs within News Site: 70021
+# unique URLs outside News Site: 14552
+
+Status Codes:
+=============
+200: 9584
+301: 407
+302: 6
+403: 1
+404: 2
+
+File Sizes:
+===========
+< 1KB: 1
+1KB ~ <10KB: 1
+10KB ~ <100KB: 8486
+100KB ~ <1MB: 890
+>= 1MB: 11
+
+Content Types:
+==============
+text/html: 9389

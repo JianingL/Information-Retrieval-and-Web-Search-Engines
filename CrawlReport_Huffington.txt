@@ -1,0 +1,36 @@
+Name: Jianing Liu
+News site crawled: http://www.huffingtonpost.com/
+
+Fetch Statistics
+================
+# fetches attempted: 10000
+# fetches succeeded: 3522
+# fetches aborted: 5194
+# fetches failed: 1284
+
+Outgoing URLs:
+==============
+Total URLs extracted: 248306
+# unique URLs extracted: 74749
+# unique URLs within News Site: 37283
+# unique URLs outside News Site: 37466
+
+Status Codes:
+=============
+200: 3522
+301: 5157
+302: 37
+404: 6
+503: 1278
+
+File Sizes:
+===========
+< 1KB: 1
+1KB ~ <10KB: 0
+10KB ~ <100KB: 76
+100KB ~ <1MB: 3290
+>= 1MB: 0
+
+Content Types:
+==============
+text/html: 3367
